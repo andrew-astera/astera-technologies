@@ -1,0 +1,16 @@
+{
+  "name": "astera-technologies",
+  "version": "1.0.0",
+  "description": "ASTERA Technologies (ASTERA.CG) — corporate website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
