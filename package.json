@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "astera-technologies-site",
+=======
+  "name": "astera-technologies",
+>>>>>>> 2fccb00c4d73b5d9a10895bf254fe41c6079626c
   "version": "1.0.0",
   "description": "ASTERA Technologies (ASTERA.CG) — corporate website",
   "main": "server.js",
