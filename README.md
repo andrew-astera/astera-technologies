@@ -73,7 +73,7 @@ The visual identity is built around the company name's root (*Astera* → star, 
 
 ## Content to customize before launch
 
-- `public/index.html` — replace placeholder stats, selected-work case studies, and contact email (`hello@astera.cg`) with real details.
+- `public/index.html` — replace placeholder stats, selected-work case studies, and contact email (`info@astera.cg`) with real details.
 - `public/index.html` `<head>` — update `<title>` / meta description if the value proposition changes.
 - Swap `data/messages.json` for a proper database or email-delivery service (e.g. SES, SendGrid) before production use — a flat file is fine for a first deploy but won't scale or survive a redeploy on most hosts.
 
